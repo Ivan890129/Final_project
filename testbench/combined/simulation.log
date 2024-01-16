@@ -1,0 +1,41 @@
+Reading counter_la_mm.hex
+counter_la_mm.hex loaded into memory
+Memory 5 bytes = 0x6f 0x00 0x00 0x0b 0x13
+VCD info: dumpfile counter_la_mm.vcd opened for output.
+================
+          2519413000,mm started
+          3993013000, return value passed,    62
+          4021038000, return value passed,    68
+          4049088000, return value passed,    74
+          4077063000, return value passed,    80
+          4105113000 mm  passed
+================
+================
+          4132088000,fir  started
+          7674138000, return value passed,    35
+          7702288000, return value passed,   158
+          7730363000, return value passed,   337
+          7758413000, return value passed,   539
+          7786388000, return value passed,   732
+          7814163000, return value passed,   915
+          7842213000, return value passed,  1098
+          7842488000,fir passed
+================
+================
+          7869438000,qs  started
+          8459888000, return value passed,    40
+          8487938000, return value passed,   893
+          8515988000, return value passed,  2541
+          8517588000, return value passed,  2669
+================
+          8685888000,qs passed
+uart test started
+tx data bit index 0: 1
+tx data bit index 1: 0
+tx data bit index 2: 1
+tx data bit index 3: 1
+tx data bit index 4: 1
+tx data bit index 5: 1
+tx data bit index 6: 0
+tx data bit index 7: 0
+tx complete 2
